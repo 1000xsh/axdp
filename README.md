@@ -11,3 +11,7 @@
 
 #### references, the perf goat of solana
 https://github.com/alessandrod/solana/tree/xdp-examples/xdp/src
+
+
+#### nic
+tested on mellanox MT27710
