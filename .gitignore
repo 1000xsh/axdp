@@ -1,0 +1,9 @@
+debug
+.vscode
+*.log
+.env
+flamegraph.svg
+target
+.git
+**/target/
+Cargo.lock

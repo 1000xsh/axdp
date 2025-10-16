@@ -1,0 +1,9 @@
+[build]
+rustflags = [
+    "-C", "target-cpu=native",
+    "-C", "target-feature=+avx2,+bmi2",
+]
+
+[profile.release]
+lto = "fat"
+codegen-units = 1
